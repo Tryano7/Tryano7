@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...web Development
 - 🌱 I’m currently learning ...javascript
 - 💞️ I’m looking to collaborate on ...web development
-- 📫 How to reach me ...https://github.com/Tryano7, bhardwajgovind352@gmail.com
+- 📫 How to reach me ...https://github.com/GovindBharwdaj, bhardwajgovind352@gmail.com
                        
 
 <!---
